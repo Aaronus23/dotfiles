@@ -1,0 +1,106 @@
+VirtualBox GUI VM Selector Window 5.0.12_OSE r104815 linux.amd64 (Dec 19 2015 15:31:57) release log
+00:00:02.048243 Log opened 2016-01-11T16:48:50.589930000Z
+00:00:02.048247 Build Type: release
+00:00:02.048252 OS Product: Linux
+00:00:02.048255 OS Release: 4.3.3-2-ARCH
+00:00:02.048258 OS Version: #1 SMP PREEMPT Wed Dec 23 20:09:18 CET 2015
+00:00:02.048305 DMI Product Name: To Be Filled By O.E.M.
+00:00:02.048324 DMI Product Version: To Be Filled By O.E.M.
+00:00:02.048643 Host RAM: 3957MB total, 1526MB available
+00:00:02.048649 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.048652 Process ID: 3385
+00:00:02.048654 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.055886 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.679464 GUI: UISelectorWindow: Geometry loaded to: Origin=415x325, Size=770x550
+00:00:02.799271 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.614149 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.666133 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:37.781283 GUI: UIMediumEnumerator: Medium with key={6cc09559-bd7a-43da-8a2e-2ee44d93c5ad} created
+00:06:41.350098 GUI: UIMediumEnumerator: Machine registration event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:06:41.353911 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:06:41.354055 GUI: UIMediumEnumerator: Machine registration event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:06:41.693056 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:06:41.693107 GUI: UIMediumEnumerator:  Old usage: <empty>
+00:06:41.694344 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:06:41.694358 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:06:41.694399 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:06:41.730933 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:48.060532 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:06:52.582195 2D support test succeeded
+00:06:52.763989 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:41.927426 GUI: UIMediumEnumerator: Medium with key={0676e634-4b40-4e53-baaf-e2bbcfe714f6} created
+00:07:47.054027 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.054079 GUI: UIMediumEnumerator:  Old usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:07:47.065946 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.065968 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.066053 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.094810 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:47.247108 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.247165 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:07:47.252110 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.252316 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.257397 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.274096 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:47.422837 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.422902 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:07:47.428958 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.428996 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.429077 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.460235 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:47.840140 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.840193 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:07:47.841389 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.841404 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.841451 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.847826 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.847920 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:07:47.849087 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.849117 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:07:47.849160 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:07:47.872837 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:58.758544 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:08:01.767526 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:08:03.297305 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:08:03.422545 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:27.494126 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:08:27.494277 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:08:27.498662 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:08:27.498979 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:08:27.499413 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:08:27.731449 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:27.732089 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:08:27.732214 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:08:27.735588 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:08:27.735643 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:08:27.735925 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:08:27.751971 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:58.969741 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:09:35.276323 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:09:35.276393 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:09:35.277737 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:09:35.277755 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:09:35.277887 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:09:35.320188 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:21.961861 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:21.961920 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:16:21.966610 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:21.966660 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:21.966740 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:22.010138 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:33.217032 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:33.217178 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:16:33.220245 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:33.220263 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:33.220311 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:36.419891 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:37.430877 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:37.430942 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:16:37.435567 GUI: UIMediumEnumerator:  New usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:37.435584 GUI: UIMediumEnumerator:  Items currently in usage: 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad, 0676e634-4b40-4e53-baaf-e2bbcfe714f6
+00:16:37.435635 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:37.448960 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:47.687304 GUI: UIMediumEnumerator: Machine unregistration event received, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:47.687377 GUI: UIMediumEnumerator:  Old usage: 0676e634-4b40-4e53-baaf-e2bbcfe714f6, 6cc09559-bd7a-43da-8a2e-2ee44d93c5ad
+00:16:47.688297 GUI: UIMediumEnumerator: Machine unregistration event processed, ID = b50b73a2-fef7-4755-a00a-387a33dcb8ae
+00:16:47.719530 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:12.717903 GUI: UISelectorWindow: Geometry saved as: Origin=415x325, Size=770x550

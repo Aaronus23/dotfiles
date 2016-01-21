@@ -1,0 +1,34 @@
+[directory]
+nautilus-icon-view-keep-aligned=false
+nautilus-icon-view-layout-timestamp=1453221953
+nautilus-desktop-icon-size=96
+
+[trash]
+nautilus-icon-position=40,434
+icon-scale=1
+nautilus-icon-position-timestamp=1453221953
+
+[home]
+nautilus-icon-position=40,14
+icon-scale=1
+nautilus-icon-position-timestamp=1453221953
+
+[ARCH_201601.volume]
+nautilus-icon-position=40,154
+icon-scale=1
+nautilus-icon-position-timestamp=1452408858
+
+[7.8 GB Volume.volume]
+nautilus-icon-position=40,874
+icon-scale=1
+nautilus-icon-position-timestamp=1453002143
+
+[mtp.volume]
+nautilus-icon-position=40,574
+icon-scale=1
+nautilus-icon-position-timestamp=1453173411
+
+[SAMSUNG Android.volume]
+nautilus-icon-position=40,574
+icon-scale=1
+nautilus-icon-position-timestamp=1453173413
